@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "index"
+  ],
+  "plugins": [],
+  "cpt": [],
+  "data": {
+    "index": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    }
+  },
+  "frontendEditor": true
+}

@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "index",
+    "template"
+  ],
+  "plugins": [],
+  "cpt": [],
+  "data": {
+    "index": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "template": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    }
+  },
+  "frontendEditor": true
+}

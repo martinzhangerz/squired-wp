@@ -1,0 +1,13 @@
+/*
+    Theme Name: squired-homepage
+    Author: Martin Zhang
+    Description: Squired Homepage
+    Version: 1.0.0
+    License: GPL v2
+    License URI: https://www.gnu.org/licenses/licenses.html
+    Text Domain: squired
+    */
+    .screen-reader-text {
+      display: none;
+    }
+    
