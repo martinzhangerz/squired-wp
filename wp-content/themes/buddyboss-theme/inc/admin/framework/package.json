@@ -41,7 +41,7 @@
     "grunt-shell": "^1.1.1",
     "grunt-wp-i18n": "^0.4.8",
     "recess": "^1.1.9",
-    "shelljs": "^0.3.0"
+    "shelljs": "^0.8.5"
   },
   "engines": {
     "node": ">=0.10.0",
